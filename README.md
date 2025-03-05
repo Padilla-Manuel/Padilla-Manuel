@@ -8,7 +8,7 @@ its `README.md`
 
 <div><br>
   <a href="https://beacons.ai/Padilla-Manuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Padilla-Manuel&show_icons=true&theme=dark&include_all_commits=true&acount_private=true"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padilla-Manuel&layout=compact&langs_count=16&theme=dark">
 </div>
 
