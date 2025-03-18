@@ -1,5 +1,5 @@
-# Seja bem-vindo ao meu perfil de Github
-## Olá sou Manuel Padilla e este é meu repositorio 
+# Welcome to my Github profile
+## Hi, I'm Manuel Padilla and this is my repository
 its `README.md` 
 
 - 👨‍🎓 Estudante de Sistemas de Informação
