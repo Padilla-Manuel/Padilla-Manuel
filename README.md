@@ -4,7 +4,7 @@ its `README.md`
 
 - 👨‍🎓 Estudante de Sistemas de Informação
 - 💻 Integrante de MackLab 2025.1
-- 😉 Contalo : sanchezpadillamanuelfermin758@gmail.com
+- 😉 Contato : sanchezpadillamanuelfermin758@gmail.com
 
 <div><br>
   <a href="https://beacons.ai/Padilla-Manuel">
