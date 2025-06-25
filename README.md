@@ -11,7 +11,7 @@ Também participei do projeto MackIA – CV (Deep Learning em Áreas Urbanas), c
 Sou movido por desafios que unem tecnologia, inovação e impacto social. Estou sempre em busca de oportunidades para aprender, colaborar e construir soluções que façam a diferença.
 
 <p align="left">
-  <a href="sanchezpadillamanuelfermin758@gmail.com">
+  <a href="mailto:sanchezpadillamanuelfermin758@gmail.com">
     <img 
       alt="Email | Manuel Padilla" 
       title="Email | Manuel Padilla" 
